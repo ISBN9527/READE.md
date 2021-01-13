@@ -6,4 +6,4 @@ I'm a open source enthusiast, good at front-end development.
 - 🌱 I’m currently working in ant financial
 - 🏗 Focus on BI and data visualization
 - 💬 WeChat: `AnyPlot`
-- 📫 Ping me by [Email](mailto:i@hust.cc)
+- 📫 Ping me by [Email](15510772290@163.com)
