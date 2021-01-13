@@ -1,4 +1,1 @@
-# READE.md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ISBN9527
-/
-&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ISBN9527&&show_icons=true&theme=radical)
